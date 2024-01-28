@@ -11,7 +11,15 @@
 
 <body>
     <header>
-        <h1>Ecommerce Sales Data Analysis Using PowerBI</h1>
+        <h3>  In the "E-commerce Sales Data Analysis"
+ the project, I employed Power BI to delve into sales
+ data, focusing on profit analysis. The investigation
+ included assessing profit by sales, monthly profit
+ trends, popular payment modes, category-wise
+ profitability, and identifying the top 5 performing
+ products. The outcome is a dynamic and visually
+ compelling Power BI dashboard, offering actionable
+ insights for informed decision-making</h3>
     </header>
     <section id="project-details">
         <div class="project-image">
@@ -39,9 +47,6 @@
             </ul>
         </div>
     </section>
-    <footer>
-        <p>&copy; 2024 Niraj Pawar</p>
-    </footer>
 </body>
 
 </html>
